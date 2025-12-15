@@ -2,13 +2,13 @@
 
 # MedRead Assessment
 
-**RadView** is a Streamlit-based clinical interface designed to measure **diagnostic decision time and categorical accuracy** in radiological image interpretation tasks.  The application is intended for **controlled research, evaluation, and experimental use**, not for open or unrestricted deployment.
+**MedRead** is a Streamlit-based clinical interface designed to measure **diagnostic decision time and categorical accuracy** in radiological image interpretation tasks.  The application is intended for **controlled research, evaluation, and experimental use**, not for open or unrestricted deployment.
 
 ---
 
 ## Overview
 
-RadView presents a sequence of medical images (e.g., MRI scans) to a user and records:
+MedRead presents a sequence of medical images (e.g., MRI scans) to a user and records:
 
 - Binary diagnostic decisions (e.g., *Normal* vs *Tumor*)
 - Decision time per case
