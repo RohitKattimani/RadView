@@ -2,8 +2,7 @@
 
 # RadView Assessment
 
-**RadView** is a Streamlit-based clinical interface designed to measure **diagnostic decision time and categorical accuracy** in radiological image interpretation tasks.  
-The application is intended for **controlled research, evaluation, and experimental use**, not for open or unrestricted deployment.
+**RadView** is a Streamlit-based clinical interface designed to measure **diagnostic decision time and categorical accuracy** in radiological image interpretation tasks.  The application is intended for **controlled research, evaluation, and experimental use**, not for open or unrestricted deployment.
 
 ---
 
